@@ -1,10 +1,12 @@
-{
-    "name": "AprendendoPWA",
-    "short_name": "AprendPWA",
-    "description": "WEB APP para aprender PWA (Disciplina PAMII).",
-    "display": "fullscreen",
-    "start_url":"index.html",    
-    "scope": "/",
+    {
+        "name": "TestePWA",
+        "short_name": "TestePWA",
+        "theme_color": "#2196f3",
+        "background_color": "#2196f3",
+        "display": "fullscreen",
+        "scope": "/index.html",
+        "start_url": "/",
+      
     
     "icons": [
         {

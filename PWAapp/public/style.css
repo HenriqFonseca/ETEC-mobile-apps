@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#logo{
+    width: 100%;
+    padding: 1%;
+}
+
+.nav-bar{
+    width: 100%;
+}
+
+.nav-item{
+    text-decoration: none;
+    display: inline;
+}
